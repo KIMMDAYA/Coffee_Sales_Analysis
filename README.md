@@ -17,6 +17,9 @@ This project analyzes coffee sales data using Excel for data cleaning, analysis,
 ## Project Overview
 This project analyzes coffee sales data to extract insights on store performance, best-selling products, and sales trends. 
 
+![Dashboard](Coffee_sales.PNG)
+
+![Coffee sales analysis](https://github.com/user-attachments/assets/dd7a4dd5-1820-4e93-a21e-c120f287eff6)
 
  ## Exploratory Data Analysis
  This involved exploring the sales data to answer questions such as:
